@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetfluentvalidation.Domain", "DotNetfluentvalidation.Domain\DotNetfluentvalidation.Domain.csproj", "{3F3B5C04-5F3B-428A-8672-94C738B7E3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetfluentvalidation.Application", "DotNetfluentvalidation.Application\DotNetfluentvalidation.Application.csproj", "{1FEE70B2-6E15-4DEF-9A2E-15A459F11736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetfluentvalidation.Persistence", "DotNetfluentvalidation.Persistence\DotNetfluentvalidation.Persistence.csproj", "{4F63084A-B818-4384-8D25-FA2414169D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetfluentvalidation.API", "DotNetfluentvalidation.API\DotNetfluentvalidation.API.csproj", "{20D7A666-4D87-42BA-822E-4AAD735A1833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3B5C04-5F3B-428A-8672-94C738B7E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B5C04-5F3B-428A-8672-94C738B7E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B5C04-5F3B-428A-8672-94C738B7E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B5C04-5F3B-428A-8672-94C738B7E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEE70B2-6E15-4DEF-9A2E-15A459F11736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEE70B2-6E15-4DEF-9A2E-15A459F11736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEE70B2-6E15-4DEF-9A2E-15A459F11736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEE70B2-6E15-4DEF-9A2E-15A459F11736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F63084A-B818-4384-8D25-FA2414169D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F63084A-B818-4384-8D25-FA2414169D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F63084A-B818-4384-8D25-FA2414169D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F63084A-B818-4384-8D25-FA2414169D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D7A666-4D87-42BA-822E-4AAD735A1833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D7A666-4D87-42BA-822E-4AAD735A1833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D7A666-4D87-42BA-822E-4AAD735A1833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D7A666-4D87-42BA-822E-4AAD735A1833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42EA674D-1C69-47F0-AEBC-0AEE289933DD}
+	EndGlobalSection
+EndGlobal
